@@ -1,0 +1,122 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "wardrobe",
+    "description": "",
+    "home_page_url": "https://lejencodes.github.io/wardrobe",
+    "feed_url": "https://lejencodes.github.io/wardrobe/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "jen"
+    },
+    "items": [
+        {
+            "id": "https://lejencodes.github.io/wardrobe/our-work-2.html",
+            "url": "https://lejencodes.github.io/wardrobe/our-work-2.html",
+            "title": "Our Work 2",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas tellus rutrum tellus pellentesque&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas tellus rutrum tellus pellentesque eu tincidunt.</p>",
+            "image": "https://lejencodes.github.io/wardrobe/media/posts/7/chalk-bg.jpg",
+            "author": {
+                "name": "jen"
+            },
+            "tags": [
+                   "our-work"
+            ],
+            "date_published": "2022-12-05T00:25:26+08:00",
+            "date_modified": "2022-12-05T00:25:32+08:00"
+        },
+        {
+            "id": "https://lejencodes.github.io/wardrobe/our-work-1.html",
+            "url": "https://lejencodes.github.io/wardrobe/our-work-1.html",
+            "title": "Our work 1",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit pellentesque habitant&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit pellentesque habitant morbi. Dignissim sodales ut eu sem integer vitae justo.</p>",
+            "image": "https://lejencodes.github.io/wardrobe/media/posts/6/christian-erra-jZbGE9odDAE-unsplash.jpg",
+            "author": {
+                "name": "jen"
+            },
+            "tags": [
+                   "our-work"
+            ],
+            "date_published": "2022-12-05T00:24:07+08:00",
+            "date_modified": "2022-12-05T00:24:14+08:00"
+        },
+        {
+            "id": "https://lejencodes.github.io/wardrobe/gallery.html",
+            "url": "https://lejencodes.github.io/wardrobe/gallery.html",
+            "title": "Gallery",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cras adipiscing enim eu turpis&hellip;",
+            "content_html": "<p class=\"align-left\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cras adipiscing enim eu turpis egestas. Adipiscing commodo elit at imperdiet. Nisl condimentum id venenatis a. Augue lacus viverra vitae congue. </p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://lejencodes.github.io/wardrobe/media/posts/5/gallery/Main-3.jpg\" data-size=\"3879x5818\"><img loading=\"lazy\" src=\"https://lejencodes.github.io/wardrobe/media/posts/5/gallery/Main-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a>\n<figcaption>caption 1</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://lejencodes.github.io/wardrobe/media/posts/5/gallery/Main-1.jpg\" data-size=\"3674x5144\"><img loading=\"lazy\" src=\"https://lejencodes.github.io/wardrobe/media/posts/5/gallery/Main-1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1075\"></a>\n<figcaption>caption 2</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://lejencodes.github.io/wardrobe/media/posts/5/gallery/Main-2.jpg\" data-size=\"4000x6000\"><img loading=\"lazy\" src=\"https://lejencodes.github.io/wardrobe/media/posts/5/gallery/Main-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a>\n<figcaption>caption 3</figcaption>\n</figure>\n</div></div>\n<p> </p>\n<p>Enim blandit volutpat maecenas volutpat. Suspendisse in est ante in nibh. Nisi quis eleifend quam adipiscing vitae. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. In vitae turpis massa sed elementum tempus. Blandit volutpat maecenas volutpat blandit aliquam. Orci ac auctor augue mauris augue neque gravida in. Nibh tellus molestie nunc non blandit massa enim nec. Congue nisi vitae suscipit tellus mauris. Amet nisl purus in mollis nunc sed id semper. Quis eleifend quam adipiscing vitae proin sagittis. Ac auctor augue mauris augue. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nunc non blandit massa enim nec.</p>",
+            "image": "https://lejencodes.github.io/wardrobe/media/posts/5/christian-fregnan-431295-xl.jpg",
+            "author": {
+                "name": "jen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-04T23:42:24+08:00",
+            "date_modified": "2022-12-04T23:46:08+08:00"
+        },
+        {
+            "id": "https://lejencodes.github.io/wardrobe/test-post-featured-2.html",
+            "url": "https://lejencodes.github.io/wardrobe/test-post-featured-2.html",
+            "title": "Test Post Featured 2",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed augue lacus viverra vitae.",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed augue lacus viverra vitae. Et tortor at risus viverra adipiscing at. In ornare quam viverra orci sagittis. Tortor at risus viverra adipiscing at in tellus integer feugiat. Ligula ullamcorper malesuada proin libero nunc. Tortor condimentum lacinia quis vel eros donec ac odio. Magna sit amet purus gravida. Amet mauris commodo quis imperdiet massa tincidunt. A condimentum vitae sapien pellentesque habitant. Scelerisque felis imperdiet proin fermentum leo vel orci porta. Elementum sagittis vitae et leo duis. Feugiat nisl pretium fusce id velit ut tortor. Feugiat in ante metus dictum. Volutpat commodo sed egestas egestas. In fermentum et sollicitudin ac orci. Amet luctus venenatis lectus magna fringilla urna. Et sollicitudin ac orci phasellus egestas tellus rutrum tellus. Curabitur vitae nunc sed velit dignissim sodales ut.</p>\n<p>Neque laoreet suspendisse interdum consectetur. A scelerisque purus semper eget. Velit sed ullamcorper morbi tincidunt ornare massa. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Id velit ut tortor pretium viverra. Diam maecenas sed enim ut sem. Nullam non nisi est sit amet facilisis. Quis lectus nulla at volutpat diam ut venenatis. Et malesuada fames ac turpis. Et egestas quis ipsum suspendisse ultrices. Turpis nunc eget lorem dolor sed. Ultrices mi tempus imperdiet nulla malesuada. Enim nulla aliquet porttitor lacus luctus accumsan tortor. Posuere sollicitudin aliquam ultrices sagittis. Tempor nec feugiat nisl pretium. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim tortor. Porta lorem mollis aliquam ut porttitor leo a. Suspendisse faucibus interdum posuere lorem ipsum dolor sit. Et egestas quis ipsum suspendisse ultrices. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.</p>\n<p>Proin fermentum leo vel orci porta non pulvinar. Urna et pharetra pharetra massa massa. Blandit aliquam etiam erat velit scelerisque in dictum non. Tellus orci ac auctor augue mauris augue neque gravida in. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Ut venenatis tellus in metus. Risus ultricies tristique nulla aliquet enim tortor. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Semper viverra nam libero justo laoreet sit amet cursus sit. Fringilla est ullamcorper eget nulla facilisi etiam dignissim. Ullamcorper morbi tincidunt ornare massa eget egestas purus.</p>",
+            "image": "https://lejencodes.github.io/wardrobe/media/posts/4/wardrobeatroom.jpg",
+            "author": {
+                "name": "jen"
+            },
+            "tags": [
+                   "wardrobe"
+            ],
+            "date_published": "2022-12-04T23:35:28+08:00",
+            "date_modified": "2022-12-05T00:51:35+08:00"
+        },
+        {
+            "id": "https://lejencodes.github.io/wardrobe/test-post-featured.html",
+            "url": "https://lejencodes.github.io/wardrobe/test-post-featured.html",
+            "title": "Test Post Featured",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla posuere sollicitudin aliquam ultrices&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla posuere sollicitudin aliquam ultrices sagittis orci. Eget magna fermentum iaculis eu non. Amet aliquam id diam maecenas ultricies mi eget mauris. Elementum integer enim neque volutpat ac tincidunt vitae. Felis imperdiet proin fermentum leo vel. Mollis nunc sed id semper risus in hendrerit gravida rutrum. Morbi tristique senectus et netus et malesuada. Pulvinar pellentesque habitant morbi tristique senectus et. Sed velit dignissim sodales ut eu sem integer vitae justo. At lectus urna duis convallis convallis tellus. Penatibus et magnis dis parturient. Quis ipsum suspendisse ultrices gravida dictum fusce ut. Quam nulla porttitor massa id neque aliquam vestibulum. Aliquet eget sit amet tellus cras. Bibendum at varius vel pharetra. Eget egestas purus viverra accumsan in. Lacinia quis vel eros donec ac odio tempor orci.</p>\n<p>Id semper risus in hendrerit gravida rutrum quisque non tellus. Porttitor eget dolor morbi non arcu risus quis. Nisl nisi scelerisque eu ultrices vitae auctor eu. Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Laoreet suspendisse interdum consectetur libero id faucibus nisl. Suspendisse in est ante in nibh mauris. Ut eu sem integer vitae justo eget magna fermentum. Pharetra et ultrices neque ornare aenean euismod elementum. Tristique senectus et netus et malesuada fames ac turpis. Gravida in fermentum et sollicitudin ac orci. Fames ac turpis egestas integer eget aliquet nibh praesent tristique. Enim tortor at auctor urna nunc id cursus metus. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Dui sapien eget mi proin. Neque viverra justo nec ultrices. Luctus venenatis lectus magna fringilla urna porttitor. Turpis in eu mi bibendum neque egestas. Pellentesque elit ullamcorper dignissim cras tincidunt.</p>\n<p>Leo integer malesuada nunc vel risus commodo viverra maecenas. Ut etiam sit amet nisl purus in mollis. Venenatis cras sed felis eget velit aliquet sagittis id consectetur. Imperdiet nulla malesuada pellentesque elit eget. Enim sit amet venenatis urna cursus eget nunc. Amet consectetur adipiscing elit ut aliquam purus sit amet. Ut lectus arcu bibendum at varius. Blandit cursus risus at ultrices mi. Pharetra convallis posuere morbi leo. Sit amet facilisis magna etiam tempor orci eu lobortis elementum. Diam maecenas sed enim ut sem viverra aliquet eget. Imperdiet nulla malesuada pellentesque elit eget gravida. Ut eu sem integer vitae justo. Pharetra et ultrices neque ornare aenean euismod elementum nisi. Cursus sit amet dictum sit amet justo donec. Aliquet sagittis id consectetur purus ut faucibus.</p>",
+            "image": "https://lejencodes.github.io/wardrobe/media/posts/3/menswardrobe.jpg",
+            "author": {
+                "name": "jen"
+            },
+            "tags": [
+                   "wardrobe"
+            ],
+            "date_published": "2022-12-04T23:23:24+08:00",
+            "date_modified": "2022-12-05T00:51:45+08:00"
+        },
+        {
+            "id": "https://lejencodes.github.io/wardrobe/test-post-2.html",
+            "url": "https://lejencodes.github.io/wardrobe/test-post-2.html",
+            "title": "Test Post 2",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris rhoncus aenean vel elit&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Habitant morbi tristique senectus et netus et malesuada. Quam quisque id diam vel. Quam quisque id diam vel quam elementum pulvinar etiam non. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Dictum at tempor commodo ullamcorper a lacus vestibulum sed. Elementum tempus egestas sed sed risus pretium quam. Dolor sed viverra ipsum nunc aliquet bibendum enim. Bibendum at varius vel pharetra vel turpis. Massa sapien faucibus et molestie ac feugiat. Ut pharetra sit amet aliquam.</p>\n<p>Sed turpis tincidunt id aliquet. Nisi quis eleifend quam adipiscing vitae proin. Pellentesque habitant morbi tristique senectus et netus et malesuada. Eget dolor morbi non arcu risus. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Tellus mauris a diam maecenas sed enim. A condimentum vitae sapien pellentesque habitant. Eget dolor morbi non arcu risus quis varius quam quisque. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Ut sem nulla pharetra diam sit amet. Donec ac odio tempor orci. Facilisis mauris sit amet massa vitae tortor.</p>\n<p>Tempor id eu nisl nunc mi ipsum. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Ut faucibus pulvinar elementum integer enim neque volutpat. Tortor id aliquet lectus proin nibh nisl condimentum id venenatis. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. In dictum non consectetur a erat. Ultrices in iaculis nunc sed augue. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Eu augue ut lectus arcu bibendum at varius vel pharetra. Egestas erat imperdiet sed euismod nisi. Tempor id eu nisl nunc mi. Semper auctor neque vitae tempus quam pellentesque nec nam. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Phasellus egestas tellus rutrum tellus. Euismod in pellentesque massa placerat duis. Vulputate enim nulla aliquet porttitor. Placerat duis ultricies lacus sed turpis tincidunt id. Maecenas sed enim ut sem viverra. Id venenatis a condimentum vitae sapien pellentesque. Neque aliquam vestibulum morbi blandit cursus risus at.</p>\n",
+            "image": "https://lejencodes.github.io/wardrobe/media/posts/2/wardrobeplain.jpg",
+            "author": {
+                "name": "jen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-04T23:00:27+08:00",
+            "date_modified": "2022-12-04T23:00:27+08:00"
+        },
+        {
+            "id": "https://lejencodes.github.io/wardrobe/test-post.html",
+            "url": "https://lejencodes.github.io/wardrobe/test-post.html",
+            "title": "Test Post",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac tortor dignissim convallis aenean. Id nibh tortor id aliquet lectus proin nibh. Libero volutpat sed cras ornare arcu dui vivamus. Vitae et leo duis ut. Quisque id diam vel quam. Ornare suspendisse sed nisi lacus sed viverra tellus in hac. Nunc non blandit massa enim nec dui nunc. Malesuada bibendum arcu vitae elementum curabitur vitae. At lectus urna duis convallis convallis tellus id interdum. Elit ullamcorper dignissim cras tincidunt lobortis.</p>\n<p>Faucibus vitae aliquet nec ullamcorper sit amet. Vel pretium lectus quam id leo in vitae. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Nisl suscipit adipiscing bibendum est ultricies integer quis. Netus et malesuada fames ac. Id diam vel quam elementum pulvinar etiam non. Lectus magna fringilla urna porttitor. Vitae suscipit tellus mauris a diam maecenas sed enim ut. Condimentum mattis pellentesque id nibh tortor id aliquet lectus. Nullam eget felis eget nunc lobortis mattis aliquam. Risus nec feugiat in fermentum. Eget nullam non nisi est. Etiam non quam lacus suspendisse faucibus interdum posuere lorem. Magna eget est lorem ipsum dolor sit amet consectetur adipiscing. Orci nulla pellentesque dignissim enim sit. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Ut venenatis tellus in metus.</p>\n<p>Imperdiet dui accumsan sit amet. Convallis posuere morbi leo urna molestie. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Ipsum faucibus vitae aliquet nec ullamcorper. Quis eleifend quam adipiscing vitae proin sagittis. Justo donec enim diam vulputate. Massa tincidunt dui ut ornare lectus sit amet est placerat. Placerat vestibulum lectus mauris ultrices eros. Bibendum enim facilisis gravida neque convallis a cras. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Gravida dictum fusce ut placerat orci.</p>\n<p>A diam maecenas sed enim. Et leo duis ut diam. Odio tempor orci dapibus ultrices. Tincidunt arcu non sodales neque sodales ut etiam sit. Dis parturient montes nascetur ridiculus mus. Augue neque gravida in fermentum et sollicitudin. Massa enim nec dui nunc. In ornare quam viverra orci. Pretium quam vulputate dignissim suspendisse in est ante in nibh. Turpis nunc eget lorem dolor. Etiam non quam lacus suspendisse faucibus interdum posuere lorem ipsum. Quisque non tellus orci ac auctor augue mauris. Non tellus orci ac auctor. Sed viverra tellus in hac habitasse. Pretium quam vulputate dignissim suspendisse in est ante in. A pellentesque sit amet porttitor eget.</p>\n<p>Platea dictumst quisque sagittis purus sit. Suspendisse interdum consectetur libero id faucibus nisl tincidunt. Rhoncus urna neque viverra justo nec ultrices dui sapien eget. Ut eu sem integer vitae justo eget magna fermentum. Aliquet bibendum enim facilisis gravida neque convallis a cras. Eget duis at tellus at. Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi. Quisque non tellus orci ac auctor augue mauris augue. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Vitae justo eget magna fermentum iaculis. Tellus orci ac auctor augue. Dolor sit amet consectetur adipiscing. Pellentesque massa placerat duis ultricies. Duis convallis convallis tellus id interdum velit laoreet. Tempor id eu nisl nunc mi ipsum faucibus. Ultrices eros in cursus turpis massa tincidunt. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Id consectetur purus ut faucibus pulvinar elementum integer enim. Augue mauris augue neque gravida in fermentum et sollicitudin.</p>\n",
+            "image": "https://lejencodes.github.io/wardrobe/media/posts/1/tailor-man.jpg",
+            "author": {
+                "name": "jen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-04T22:57:01+08:00",
+            "date_modified": "2022-12-04T23:13:26+08:00"
+        }
+    ]
+}

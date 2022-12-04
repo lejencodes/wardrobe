@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lejencodes.github.io/wardrobe/sitemap.xml
